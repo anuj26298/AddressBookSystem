@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a03447c6-5063-467f-b0aa-9a1b10ae5294" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sy0CzXjuJhvWtLZKyngFdvIpec" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="LombokPluginIS_EXTSION_METHOD_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Lombok" />
+  </component>
+  <component name="RunManager" selected="Application.AddressBookMain">
+    <configuration name="AddressBookController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.magic.addressbook.controller.AddressBookController" />
+      <module name="AddressBookDemo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magic.addressbook.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddressBookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.magic.addressbook.controller.AddressBookMain" />
+      <module name="AddressBookDemo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magic.addressbook.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddressBookService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.magic.addressbook.services.AddressBookService" />
+      <module name="AddressBookDemo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magic.addressbook.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection" />
+      <module name="AddressBookDemo.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Collection" />
+        <item itemvalue="Application.AddressBookMain" />
+        <item itemvalue="Application.AddressBookController" />
+        <item itemvalue="Application.AddressBookService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a03447c6-5063-467f-b0aa-9a1b10ae5294" name="Default Changelist" comment="" />
+      <created>1621829398293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621829398293</updated>
+      <workItem from="1621829402594" duration="20266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="134" width="1000" height="846" key="#Project_Structure" timestamp="1621829455637">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="491" y="134" width="1000" height="846" key="#Project_Structure/72.27.1848.1053@72.27.1848.1053" timestamp="1621829455637" />
+    <state x="760" y="199" width="667" height="736" key="#com.intellij.ide.util.MemberChooser" timestamp="1621851228939">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="760" y="199" width="667" height="736" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1621851228939" />
+    <state width="1792" height="534" key="GridCell.Tab.0.bottom" timestamp="1621855765790">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1792" height="534" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1621855765790" />
+    <state width="1792" height="534" key="GridCell.Tab.0.center" timestamp="1621855765789">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1792" height="534" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1621855765789" />
+    <state width="1792" height="534" key="GridCell.Tab.0.left" timestamp="1621855765788">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1792" height="534" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1621855765788" />
+    <state width="1792" height="534" key="GridCell.Tab.0.right" timestamp="1621855765789">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1792" height="534" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1621855765789" />
+    <state x="361" y="101" width="1269" height="912" key="SettingsEditor" timestamp="1621831260291">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="361" y="101" width="1269" height="912" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1621831260291" />
+    <state x="668" y="185" width="646" height="743" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1621830188673">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="668" y="185" width="646" height="743" key="com.intellij.testIntegration.createTest.CreateTestDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1621830188673" />
+    <state x="72" y="27" width="1344" height="923" key="dock-window-1" timestamp="1621833463128">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="72" y="27" width="1344" height="923" key="dock-window-1/72.27.1848.1053@72.27.1848.1053" timestamp="1621833463128" />
+    <state width="750" height="530" key="javadoc.popup" timestamp="1621833909867">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="750" height="530" key="javadoc.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1621833909867" />
+    <state x="681" y="116" width="619" height="882" key="refactoring.ChangeSignatureDialog" timestamp="1621832209917">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="681" y="116" width="619" height="882" key="refactoring.ChangeSignatureDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1621832209917" />
+    <state x="576" y="18" width="840" height="1032" key="search.everywhere.popup" timestamp="1621831521979">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="576" y="18" width="840" height="1032" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1621831521979" />
+  </component>
+</project>
